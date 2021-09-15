@@ -1,0 +1,19 @@
+
+En esta Semana la planificación es la siguiente :
+
+- Redacción de Requisitos
+
+Redactaremos los requisitos funcionales que requiere nuestra aplicación.  
+
+- Configuración deSoftware necesario para desarrollo de proyecto
+
+Configuraremos el software necesario para poder empezar a desarrollar la aplicación 
+
+Pasos -
+
+1. Nos crearemos una cuenta en SAP
+2. Configuramos nuestra cuenta subscripciones para poder tener accesos a los IDES de desarollo
+3. Configuración de paquetes y clases para desarrollar nuestra aplicación 
+4. Configuración de conexiones externas a servicios web .
+
+
